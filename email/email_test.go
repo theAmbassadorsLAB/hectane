@@ -2,7 +2,7 @@ package email
 
 import (
 	"github.com/hectane/go-attest"
-	"github.com/hectane/hectane/queue"
+	"github.com/theAmbassadorsLAB/hectane/queue"
 
 	"bytes"
 	"errors"
